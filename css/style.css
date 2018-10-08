@@ -1,32 +1,38 @@
 h1,h2,h3{
   font-family:Arial;
 }
-
 a{
-  	color:red;
-  	text-decoration:none;
+    color:red;
+    text-decoration:none;
 }
 .header{
-    margin:10px;
-  	background-color:red;
-  	padding:20px;
-  	border-radius:10px;
-  	border:1px solid;
-  	text-align:center;
+    background-color:red;
+    padding:20px;
+    border-radius:10px;
+    border:1px solid;
+    text-align:center;
+}
+.footer{
+    background-color:red;
+    padding:20px;
+    border-radius:10px;
+    border:1px solid;
+}
+.footer a{
+  color:white;
 }
 header div a{
       color:white;
 }
-
 .logo{
   float:left;
 }
 .main-content{
-  	margin:10px;
-  	border:1px solid;
-  	padding:20px;
-  	border-radius:10px;
-  	overflow:auto;
+    margin:10px;
+    border:1px solid;
+    padding:20px;
+    border-radius:10px;
+    overflow:auto;
 }
 
 
@@ -51,3 +57,12 @@ header div a{
     margin:10px;
     padding:20px;
 }
+#news4{
+    width:75%;
+    float:right;
+    border: 1px solid;
+    margin:10px;
+    padding:20px;
+}
+
+
