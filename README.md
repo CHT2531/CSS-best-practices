@@ -20,7 +20,7 @@
 * Using this copy re-write the CSS (and possibly the HTML) to make it more maintainable. 
 
 # Thinking about BEM
-A  widely used technique to improve the maintainability of CSS is the BEM naming convention. Before attempting the following please familiarise yourself with BEM - https://getbem.com/introduction/.
+A  widely used technique to improve the maintainability of CSS is the BEM naming convention. Before attempting the following please familiarise yourself with BEM - [https://getbem.com/introduction/](https://en.bem.info/methodology/quick-start/).
 
 To practice these ideas have a look at https://courses.hud.ac.uk/2023-24/full-time/undergraduate/information-technology-bsc-hons.  
 
