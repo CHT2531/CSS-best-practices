@@ -1,5 +1,6 @@
 # CSS Best Practices
 
+## Identifying bad practices
 * Download and unzip this repository (click the big green button)
 * Open the HTML and CSS in a text editor
 * Don't make any changes to the HTML
@@ -13,3 +14,7 @@
     ![News Page](news.png "Example")
 * How DRY do you think the CSS is? Specifically what do you think the problems are? 
 * How could the CSS and HTML be re-written to avoid these problems? 
+
+## Re-writing the CSS
+* Make a copy of the final working design.
+* Using this copy re-write the CSS (and possibly the HTML) to make it more maintainable. 
