@@ -9,7 +9,7 @@
     2. Give the footer a red background, margin of 10px, padding of 20px and a solid rounded border (10px radius).
     3. Change the colour of the hyperlink in the footer so it is visible (white).
     
-    Have a look at the following screenshot which show what the page should look like
+    Have a look at the following screenshot which shows what the final page should look like:
     
     ![News Page](news.png "Example")
 * How DRY do you think the CSS is? Specifically what do you think the problems are? 
