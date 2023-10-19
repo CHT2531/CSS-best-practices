@@ -40,7 +40,8 @@ You don't need to write any CSS, simply draft out a CSS file using selectors wit
 
 More info
 * https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/
-* https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/   
+* https://www.smashingmagazine.com/2016/06/battling-bem-extended-edition-common-problems-and-how-to-avoid-them/
+* https://css-tricks.com/taming-the-cascade-with-bem-and-modern-css-selectors/  
 * https://seesparkbox.com/foundry/bem_css_organization
 * https://seesparkbox.com/foundry/bem_by_example
 
